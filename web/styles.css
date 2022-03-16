@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    font-size: 100px;
+
+}
+
+#h1 {
+    text-decoration: underline;
+    color: red;
+}
+
+#p1 {
+    color: grey;
+    font-size: 30px;
+}
+
+#p2 {
+    font-size: 20px;
+}
+
+#top_container {
+    margin-bottom: 10pt;
+    border-style: dashed;
+}
+
+#bottom_container {
+    border-style: solid;
+    border-color: red;
+    padding: 25px;
+}
